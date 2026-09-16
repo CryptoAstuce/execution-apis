@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente les Execution APIs, le JSON-RPC, l’état Ethereum, le transaction pool et l’Engine API. Voir [docs/fr/README.md](docs/fr/README.md).
+
 # Execution API Specification
 
 ## JSON-RPC
